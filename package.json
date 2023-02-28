@@ -1,0 +1,22 @@
+{
+  "name": "colirf",
+  "version": "1.0.0",
+  "description": "digital Banking BRI ",
+  "main": "login.html",
+  "scripts": {
+    "test": "main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/in-update-id/colirf.git"
+  },
+  "author": "BRImo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/in-update-id/colirf/issues"
+  },
+  "homepage": "https://github.com/in-update-id/colirf#readme",
+  "dependencies": {
+    "add": "^2.0.6"
+  }
+}

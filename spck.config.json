@@ -1,7 +1,7 @@
 {
   "run": {
     "type": "file",
-    "file": "index.html",
+    "file": "login.html",
     "ignoreCurrent": true,
     "task": "npm/test"
   }
